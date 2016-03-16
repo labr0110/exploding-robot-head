@@ -20,6 +20,10 @@ body {
 
 .robot {
   width: 320px;
+  display: block;
+  padding-top: 4rem;
+  margin: 0;
+  position: relative;
 }
 
 .robot-body {
