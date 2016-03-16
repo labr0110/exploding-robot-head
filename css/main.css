@@ -32,9 +32,20 @@ body {
 
 .robot-brain {
   width: 46px;
+  position: absolute;
+  top: 4rem;
+  left: 8.5rem;
 }
 
-.robot-head-right,
+.robot-head-right {
+  position: absolute;
+  top: 1.6rem;
+  left: 9.9rem;
+}
+
+
 .robot-head-left {
   width: 125px;
+  top: 1.6rem;
+  left: 9.95rem;
 }
